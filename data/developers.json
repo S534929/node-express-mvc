@@ -197,7 +197,15 @@
   },
   {
     "_id": 203,
-    "email": "@nwmissouri.edu"
+    "email": "s534929@nwmissouri.edu",
+    "given": "Satish",
+    "family": "Gadge",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "zip": 410206,
+    "country": "INDIA",
+    "URL": "https://github.com/S534929"
+    
   },
   {
     "_id": 204,
